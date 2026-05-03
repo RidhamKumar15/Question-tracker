@@ -12,7 +12,7 @@ A static, GitHub Pages-ready coding question tracker for day-wise FAANG intervie
 - Responsive dark UI with smooth transitions
 
 ## Run Locally
-
+   
 ```bash
 python3 -m http.server 5173
 ```
